@@ -1,0 +1,6 @@
+Thank you for purchasing the "Absolutely Awesome Book on C# and .NET" from www.dotnetcurry.com/csharpbook.
+
+The eBook is available in PDF, ePub (iPad) and Mobi(Kindle). 
+
+The source code of this eBook can be downloaded at https://github.com/dotnetcurry/csharpbook.
+
